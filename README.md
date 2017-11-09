@@ -1,2 +1,2 @@
 # mpagaweb-wrapper-app
-Enkel WebViewWrapper for PagaWeb, timeregistrering for ansatte på UiB
+Enkel WebViewWrapper for PagaWeb, timeregistrering på UiB
